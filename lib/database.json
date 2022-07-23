@@ -1,0 +1,116 @@
+{
+  "users": {
+    "918156874290@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285789418134@s.whatsapp.net": {
+      "premium": false,
+      "premiumTime": -1,
+      "banned": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "628985476150@s.whatsapp.net": {
+      "premium": true,
+      "premiumTime": -1,
+      "banned": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    }
+  },
+  "chats": {
+    "918156874290@s.whatsapp.net": {
+      "mute": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363022682639473@g.us": {
+      "mute": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6285789418134@s.whatsapp.net": {
+      "goodbye": true,
+      "welcome": true,
+      "mute": false,
+      "nsfw": false,
+      "antilink": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6285695797170@s.whatsapp.net": {
+      "goodbye": true,
+      "welcome": true,
+      "mute": false,
+      "nsfw": false,
+      "antilink": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "628985476150@s.whatsapp.net": {
+      "goodbye": true,
+      "welcome": true,
+      "mute": false,
+      "nsfw": false,
+      "antilink": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363024078776523@g.us": {
+      "goodbye": true,
+      "welcome": true,
+      "mute": false,
+      "nsfw": false,
+      "antilink": false,
+      "setWelcome": "",
+      "setLeave": ""
+    }
+  },
+  "database": {},
+  "game": {
+    "math": [],
+    "family100": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebakbendera": [],
+    "siapaaku": [],
+    "tebakkalimat": [],
+    "caklontong": [],
+    "susunkata": [],
+    "tekateki": [],
+    "tebakkabupaten": [],
+    "tebakkimia": [],
+    "tebaklirik": [],
+    "tebaktebakan": []
+  },
+  "others": {},
+  "sticker": {},
+  "absen": {},
+  "cmd": {},
+  "settings": {
+    "918156874290@s.whatsapp.net": {
+      "autobio": true,
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    },
+    "6285789418134@s.whatsapp.net": {
+      "autobio": true,
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    }
+  },
+  "anonymous": {},
+  "store": [],
+  "RSticker": [],
+  "RImage": [],
+  "RVideo": [],
+  "RVn": []
+}
